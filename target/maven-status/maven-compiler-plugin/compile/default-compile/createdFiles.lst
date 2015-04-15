@@ -1,0 +1,8 @@
+br/com/justoeu/resource/impl/CustomerResourceImpl.class
+br/com/justoeu/domain/Customer.class
+br/com/justoeu/infrastructure/security/SecurityFilter.class
+br/com/justoeu/resource/CustomerResource.class
+br/com/justoeu/domain/Phrase.class
+br/com/justoeu/service/dto/CustomerDTO.class
+br/com/justoeu/resource/config/JaxRsActivator.class
+br/com/justoeu/domain/Greeter.class
